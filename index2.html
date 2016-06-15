@@ -1,68 +1,68 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Project R</title>
-	<meta charset='utf-8'>
-    <style type="text/css">
-      html, body, #map-canvas { height: 100%; margin: 0; padding: 0;}
-    </style>
-	<link rel=stylesheet type="text/css" href="Assets/css/index.css">
-
-
-  </head>
-  <body>
-	<div id="map-canvas"></div>
-	<div class="siderbarmap2">
-			<ul>
-				<input id="Circlebox" type="checkbox" checked="checked" />Circle
-				<br />
-				<input id="Iconbox" type="checkbox"  />Icon
-				<br />
-				<input id="filterBox" type="checkbox"  />Size Filter
-			</ul>
-	</div>
-	<div id="btnArea">
-		<button id="entries" class="btn">Entries</button>
-		<button id="exits" class="btn">Exits</button>
-		<button id="total" class="btn">Total</button>
-	</div>
-	<div id="fileArea2">
-		<div id="entry">
-			<div class="lab">Turnstile</div>
-			<button class="btn btn-sum" value="turnstile_160102.json">2016/01/02</button>
-			<button class="btn btn-sum" value="turnstile_160109.json">2016/01/09</button>
-			<button class="btn btn-sum" value="turnstile_160116.json">2016/01/16</button>
-			<button class="btn btn-sum" value="turnstile_160123.json">2016/01/23</button>
-			<button class="btn btn-sum" value="turnstile_160130.json">2016/01/30</button>
-			<button class="btn btn-sum" value="turnstile_160206.json">2016/02/06</button>
-			<button class="btn btn-sum" value="turnstile_160213.json">2016/02/13</button>
-			<button class="btn btn-sum" value="turnstile_160220.json">2016/02/20</button>
-			<button class="btn btn-sum" value="turnstile_160227.json">2016/02/27</button>
-			<button class="btn btn-sum" value="turnstile_160305.json">2016/03/05</button>
-      </div>
-  </div>
-	<div id="fileArea3">
-		<div id="entry">
-			<button class="btn btn-sum" value="turnstile_160312.json">2016/03/12</button>
-			<button class="btn btn-sum" value="turnstile_160319.json">2016/03/19</button>
-			<button class="btn btn-sum" value="turnstile_160326.json">2016/03/26</button>
-			<button class="btn btn-sum" value="turnstile_160402.json">2016/04/02</button>
-			<button class="btn btn-sum" value="turnstile_160409.json">2016/04/09</button>
-			<button class="btn btn-sum" value="turnstile_160416.json">2016/04/16</button>
-			<button class="btn btn-sum" value="turnstile_160423.json">2016/04/23</button>
-			<button class="btn btn-sum" value="turnstile_160430.json">2016/04/30</button>
-			<button class="btn btn-sum" value="turnstile_160507.json">2016/05/07</button>
-			<button class="btn btn-sum" value="turnstile_160514.json">2016/05/14</button>
-			<button class="btn btn-sum" value="turnstile_160521.json">2016/05/21</button>
-			<button class="btn btn-sum" value="turnstile_160528.json">2016/05/28</button>
-			<button class="btn btn-sum" value="turnstile_160604.json">2016/06/04</button>
-			<button class="btn btn-sum" value="sum.json">2016 Sum</button>
-      </div>
-		</div>
-	</div>
-
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDe71pYauGtPXrk1h3FmfzR5J4Yst5BfEw"></script>
-	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-rc1/jquery.min.js"></script>
-	<script type="text/javascript" src="Assets/js/index.js"></script>
-  </body>
-</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Project R</title>
+    <meta charset='utf-8'>
+    <style type="text/css">
+      html, body, #map-canvas { height: 100%; margin: 0; padding: 0;}
+    </style>
+	<link rel=stylesheet type="text/css" href="Assets/css/index.css">
+  </head>
+  <body>
+	<div id="map-canvas"></div>
+	<div class="siderbarmap2">
+			<ul>
+				<input id="Circlebox" type="checkbox" checked="checked" />Circle
+				<br />
+				<input id="Iconbox" type="checkbox"  />Icon
+				<br />
+				<input id="filterBox" type="checkbox"  />Size Filter
+			</ul>
+	</div>
+
+	<div id="btnArea">
+		<button id="entries" class="btn">Entries</button>
+		<button id="exits" class="btn">Exits</button>
+		<button id="total" class="btn">Total</button>
+	</div>
+
+	<div id="fileArea2">
+		<div id="entry">
+			<div class="lab">Turnstile</div>
+			<button class="btn btn-sum" value="turnstile_160102.json">2016/01/02</button>
+			<button class="btn btn-sum" value="turnstile_160109.json">2016/01/09</button>
+			<button class="btn btn-sum" value="turnstile_160116.json">2016/01/16</button>
+			<button class="btn btn-sum" value="turnstile_160123.json">2016/01/23</button>
+			<button class="btn btn-sum" value="turnstile_160130.json">2016/01/30</button>
+			<button class="btn btn-sum" value="turnstile_160206.json">2016/02/06</button>
+			<button class="btn btn-sum" value="turnstile_160213.json">2016/02/13</button>
+			<button class="btn btn-sum" value="turnstile_160220.json">2016/02/20</button>
+			<button class="btn btn-sum" value="turnstile_160227.json">2016/02/27</button>
+			<button class="btn btn-sum" value="turnstile_160305.json">2016/03/05</button>
+      </div>
+  </div>
+	<div id="fileArea3">
+		<div id="entry">
+			<button class="btn btn-sum" value="turnstile_160312.json">2016/03/12</button>
+			<button class="btn btn-sum" value="turnstile_160319.json">2016/03/19</button>
+			<button class="btn btn-sum" value="turnstile_160326.json">2016/03/26</button>
+			<button class="btn btn-sum" value="turnstile_160402.json">2016/04/02</button>
+			<button class="btn btn-sum" value="turnstile_160409.json">2016/04/09</button>
+			<button class="btn btn-sum" value="turnstile_160416.json">2016/04/16</button>
+			<button class="btn btn-sum" value="turnstile_160423.json">2016/04/23</button>
+			<button class="btn btn-sum" value="turnstile_160430.json">2016/04/30</button>
+			<button class="btn btn-sum" value="turnstile_160507.json">2016/05/07</button>
+			<button class="btn btn-sum" value="turnstile_160514.json">2016/05/14</button>
+			<button class="btn btn-sum" value="turnstile_160521.json">2016/05/21</button>
+			<button class="btn btn-sum" value="turnstile_160528.json">2016/05/28</button>
+			<button class="btn btn-sum" value="turnstile_160604.json">2016/06/04</button>
+			<button class="btn btn-sum" value="sum.json">2016 Sum</button>
+      </div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=your_token"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-rc1/jquery.min.js"></script>
+	<script type="text/javascript" src="Assets/js/index.js"></script>
+  </body>
+</html>
