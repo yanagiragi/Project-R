@@ -1,0 +1,2216 @@
+[
+    {
+        "Orgname": "103 ST",
+        "Modname": "103 St",
+        "lat": "40.796092",
+        "lng": "-73.961454"
+    },
+    {
+        "Orgname": "103 ST-CORONA",
+        "Modname": "103 St - Corona Plaza",
+        "lat": "40.749865",
+        "lng": "-73.8627"
+    },
+    {
+        "Orgname": "104 ST",
+        "Modname": "104 St",
+        "lat": "40.695178",
+        "lng": "-73.84433"
+    },
+    {
+        "Orgname": "110 ST",
+        "Modname": "110 St",
+        "lat": "40.79502",
+        "lng": "-73.94425"
+    },
+    {
+        "Orgname": "111 ST",
+        "Modname": "111 St",
+        "lat": "40.697418",
+        "lng": "-73.836345"
+    },
+    {
+        "Orgname": "116 ST",
+        "Modname": "116 St",
+        "lat": "40.805085",
+        "lng": "-73.954882"
+    },
+    {
+        "Orgname": "116 ST-COLUMBIA",
+        "Modname": "116 St - Columbia University",
+        "lat": "40.807722",
+        "lng": "-73.96411"
+    },
+    {
+        "Orgname": "121 ST",
+        "Modname": "121 St",
+        "lat": "40.700492",
+        "lng": "-73.828294"
+    },
+    {
+        "Orgname": "125 ST",
+        "Modname": "125 St",
+        "lat": "40.811109",
+        "lng": "-73.952343"
+    },
+    {
+        "Orgname": "135 ST",
+        "Modname": "135 St",
+        "lat": "40.817894",
+        "lng": "-73.947649"
+    },
+    {
+        "Orgname": "137 ST CITY COL",
+        "Modname": "137 St - City College",
+        "lat": "40.822008",
+        "lng": "-73.953676"
+    },
+    {
+        "Orgname": "138/GRAND CONC",
+        "Modname": "138 St - Grand Concourse",
+        "lat": "40.813224",
+        "lng": "-73.929849"
+    },
+    {
+        "Orgname": "14 ST",
+        "Modname": "14 St",
+        "lat": "40.738228",
+        "lng": "-73.996209"
+    },
+    {
+        "Orgname": "14 ST-UNION SQ",
+        "Modname": "14 St - Union Sq",
+        "lat": "40.735736",
+        "lng": "-73.990568"
+    },
+    {
+        "Orgname": "145 ST",
+        "Modname": "145 St",
+        "lat": "40.824783",
+        "lng": "-73.944216"
+    },
+    {
+        "Orgname": "149/GRAND CONC",
+        "Modname": "149 St - Grand Concourse",
+        "lat": "40.818375",
+        "lng": "-73.927351"
+    },
+    {
+        "Orgname": "14TH STREET",
+        "Modname": "14 St",
+        "lat": "40.738228",
+        "lng": "-73.996209"
+    },
+    {
+        "Orgname": "15 ST-PROSPECT",
+        "Modname": "15 St - Prospect Park",
+        "lat": "40.660365",
+        "lng": "-73.979493"
+    },
+    {
+        "Orgname": "155 ST",
+        "Modname": "155 St",
+        "lat": "40.830135",
+        "lng": "-73.938209"
+    },
+    {
+        "Orgname": "157 ST",
+        "Modname": "157 St",
+        "lat": "40.834041",
+        "lng": "-73.94489"
+    },
+    {
+        "Orgname": "161/YANKEE STAD",
+        "Modname": "161 St - Yankee Stadium",
+        "lat": "40.827905",
+        "lng": "-73.925651"
+    },
+    {
+        "Orgname": "163 ST-AMSTERDM",
+        "Modname": "163 St - Amsterdam Av",
+        "lat": "40.836013",
+        "lng": "-73.939892"
+    },
+    {
+        "Orgname": "167 ST",
+        "Modname": "167 St",
+        "lat": "40.833771",
+        "lng": "-73.91844"
+    },
+    {
+        "Orgname": "168 ST",
+        "Modname": "168 St",
+        "lat": "40.840719",
+        "lng": "-73.939561"
+    },
+    {
+        "Orgname": "169 ST",
+        "Modname": "169 St",
+        "lat": "40.71047",
+        "lng": "-73.793604"
+    },
+    {
+        "Orgname": "170 ST",
+        "Modname": "170 St",
+        "lat": "40.839306",
+        "lng": "-73.9134"
+    },
+    {
+        "Orgname": "174-175 STS",
+        "Modname": "174-175 Sts",
+        "lat": "40.8459",
+        "lng": "-73.910136"
+    },
+    {
+        "Orgname": "174 ST",
+        "Modname": "174 St",
+        "lat": "40.837288",
+        "lng": "-73.887734"
+    },
+    {
+        "Orgname": "175 ST",
+        "Modname": "175 St",
+        "lat": "40.847391",
+        "lng": "-73.939704"
+    },
+    {
+        "Orgname": "176 ST",
+        "Modname": "176 St",
+        "lat": "40.84848",
+        "lng": "-73.911794"
+    },
+    {
+        "Orgname": "18 AV",
+        "Modname": "18 Av",
+        "lat": "40.620671",
+        "lng": "-73.990414"
+    },
+    {
+        "Orgname": "18 ST",
+        "Modname": "18 St",
+        "lat": "40.74104",
+        "lng": "-73.997871"
+    },
+    {
+        "Orgname": "181 ST",
+        "Modname": "181 St",
+        "lat": "40.851695",
+        "lng": "-73.937969"
+    },
+    {
+        "Orgname": "182-183 STS",
+        "Modname": "182-183 Sts",
+        "lat": "40.856093",
+        "lng": "-73.900741"
+    },
+    {
+        "Orgname": "183 ST",
+        "Modname": "183 St",
+        "lat": "40.858407",
+        "lng": "-73.903879"
+    },
+    {
+        "Orgname": "190 ST",
+        "Modname": "190 St",
+        "lat": "40.859022",
+        "lng": "-73.93418"
+    },
+    {
+        "Orgname": "191 ST",
+        "Modname": "191 St",
+        "lat": "40.855225",
+        "lng": "-73.929412"
+    },
+    {
+        "Orgname": "2 AV",
+        "Modname": "5 Av",
+        "lat": "40.753821",
+        "lng": "-73.981963"
+    },
+    {
+        "Orgname": "20 AV",
+        "Modname": "20 Av",
+        "lat": "40.61741",
+        "lng": "-73.985026"
+    },
+    {
+        "Orgname": "207 ST",
+        "Modname": "207 St",
+        "lat": "40.864621",
+        "lng": "-73.918822"
+    },
+    {
+        "Orgname": "21 ST",
+        "Modname": "21 St",
+        "lat": "40.744065",
+        "lng": "-73.949724"
+    },
+    {
+        "Orgname": "21 ST-QNSBRIDGE",
+        "Modname": "21 St - Queensbridge",
+        "lat": "40.754203",
+        "lng": "-73.942836"
+    },
+    {
+        "Orgname": "215 ST",
+        "Modname": "215 St",
+        "lat": "40.869444",
+        "lng": "-73.915279"
+    },
+    {
+        "Orgname": "219 ST",
+        "Modname": "219 St",
+        "lat": "40.883895",
+        "lng": "-73.862633"
+    },
+    {
+        "Orgname": "225 ST",
+        "Modname": "225 St",
+        "lat": "40.888022",
+        "lng": "-73.860341"
+    },
+    {
+        "Orgname": "23 ST",
+        "Modname": "23 St",
+        "lat": "40.741303",
+        "lng": "-73.989344"
+    },
+    {
+        "Orgname": "231 ST",
+        "Modname": "231 St",
+        "lat": "40.878856",
+        "lng": "-73.904834"
+    },
+    {
+        "Orgname": "233 ST",
+        "Modname": "233 St",
+        "lat": "40.893193",
+        "lng": "-73.857473"
+    },
+    {
+        "Orgname": "238 ST",
+        "Modname": "238 St",
+        "lat": "40.884667",
+        "lng": "-73.90087"
+    },
+    {
+        "Orgname": "25 AV",
+        "Modname": "25 Av",
+        "lat": "40.597704",
+        "lng": "-73.986829"
+    },
+    {
+        "Orgname": "25 ST",
+        "Modname": "25 St",
+        "lat": "40.660397",
+        "lng": "-73.998091"
+    },
+    {
+        "Orgname": "28 ST",
+        "Modname": "28 St",
+        "lat": "40.745494",
+        "lng": "-73.988691"
+    },
+    {
+        "Orgname": "3 AV",
+        "Modname": "5 Av",
+        "lat": "40.753821",
+        "lng": "-73.981963"
+    },
+    {
+        "Orgname": "3 AV-149 ST",
+        "Modname": "3 Av - 149 St",
+        "lat": "40.816109",
+        "lng": "-73.917757"
+    },
+    {
+        "Orgname": "3 AV 138 ST",
+        "Modname": "3 Av - 138 St",
+        "lat": "40.810476",
+        "lng": "-73.926138"
+    },
+    {
+        "Orgname": "30 AV",
+        "Modname": "30 Av",
+        "lat": "40.766779",
+        "lng": "-73.921479"
+    },
+    {
+        "Orgname": "33 ST",
+        "Modname": "33 St",
+        "lat": "40.744587",
+        "lng": "-73.930997"
+    },
+    {
+        "Orgname": "33 ST-RAWSON ST",
+        "Modname": "Houston St",
+        "lat": "40.728251",
+        "lng": "-74.005367"
+    },
+    {
+        "Orgname": "34 ST-HERALD SQ",
+        "Modname": "34 St - Herald Sq",
+        "lat": "40.749567",
+        "lng": "-73.98795"
+    },
+    {
+        "Orgname": "34 ST-HUDSON YD",
+        "Modname": "Simpson St",
+        "lat": "40.824073",
+        "lng": "-73.893064"
+    },
+    {
+        "Orgname": "34 ST-PENN STA",
+        "Modname": "34 St - Penn Station",
+        "lat": "40.752287",
+        "lng": "-73.993391"
+    },
+    {
+        "Orgname": "36 AV",
+        "Modname": "36 Av",
+        "lat": "40.756804",
+        "lng": "-73.929575"
+    },
+    {
+        "Orgname": "36 ST",
+        "Modname": "36 St",
+        "lat": "40.655144",
+        "lng": "-74.003549"
+    },
+    {
+        "Orgname": "39 AV",
+        "Modname": "39 Av",
+        "lat": "40.752882",
+        "lng": "-73.932755"
+    },
+    {
+        "Orgname": "4 AV-9 ST",
+        "Modname": "57 St - 7 Av",
+        "lat": "40.764664",
+        "lng": "-73.980658"
+    },
+    {
+        "Orgname": "40 ST LOWERY ST",
+        "Modname": "Bowery",
+        "lat": "40.72028",
+        "lng": "-73.993915"
+    },
+    {
+        "Orgname": "42 ST-BRYANT PK",
+        "Modname": "42 St - Bryant Pk",
+        "lat": "40.754222",
+        "lng": "-73.984569"
+    },
+    {
+        "Orgname": "42 ST-PORT AUTH",
+        "Modname": "42 St - Port Authority Bus Terminal",
+        "lat": "40.757308",
+        "lng": "-73.989735"
+    },
+    {
+        "Orgname": "45 ST",
+        "Modname": "45 St",
+        "lat": "40.648939",
+        "lng": "-74.010006"
+    },
+    {
+        "Orgname": "46 ST",
+        "Modname": "46 St",
+        "lat": "40.756312",
+        "lng": "-73.913333"
+    },
+    {
+        "Orgname": "46 ST BLISS ST",
+        "Modname": "46 St",
+        "lat": "40.756312",
+        "lng": "-73.913333"
+    },
+    {
+        "Orgname": "47-50 STS ROCK",
+        "Modname": "47-50 Sts - Rockefeller Ctr",
+        "lat": "40.758663",
+        "lng": "-73.981329"
+    },
+    {
+        "Orgname": "49 ST",
+        "Modname": "49 St",
+        "lat": "40.759901",
+        "lng": "-73.984139"
+    },
+    {
+        "Orgname": "4AV-9 ST",
+        "Modname": "57 St - 7 Av",
+        "lat": "40.764664",
+        "lng": "-73.980658"
+    },
+    {
+        "Orgname": "5 AV/53 ST",
+        "Modname": "5 Av/53 St",
+        "lat": "40.760167",
+        "lng": "-73.975224"
+    },
+    {
+        "Orgname": "5 AV/59 ST",
+        "Modname": "5 Av/59 St",
+        "lat": "40.764811",
+        "lng": "-73.973347"
+    },
+    {
+        "Orgname": "5 AVE",
+        "Modname": "5 Av",
+        "lat": "40.753821",
+        "lng": "-73.981963"
+    },
+    {
+        "Orgname": "50 ST",
+        "Modname": "50 St",
+        "lat": "40.63626",
+        "lng": "-73.994791"
+    },
+    {
+        "Orgname": "51 ST",
+        "Modname": "51 St",
+        "lat": "40.757107",
+        "lng": "-73.97192"
+    },
+    {
+        "Orgname": "52 ST",
+        "Modname": "52 St",
+        "lat": "40.744149",
+        "lng": "-73.912549"
+    },
+    {
+        "Orgname": "53 ST",
+        "Modname": "53 St",
+        "lat": "40.645069",
+        "lng": "-74.014034"
+    },
+    {
+        "Orgname": "55 ST",
+        "Modname": "55 St",
+        "lat": "40.631435",
+        "lng": "-73.995476"
+    },
+    {
+        "Orgname": "57 ST",
+        "Modname": "57 St",
+        "lat": "40.763972",
+        "lng": "-73.97745"
+    },
+    {
+        "Orgname": "57 ST-7 AV",
+        "Modname": "57 St - 7 Av",
+        "lat": "40.764664",
+        "lng": "-73.980658"
+    },
+    {
+        "Orgname": "59 ST",
+        "Modname": "59 St",
+        "lat": "40.641362",
+        "lng": "-74.017881"
+    },
+    {
+        "Orgname": "59 ST COLUMBUS",
+        "Modname": "59 St - Columbus Circle",
+        "lat": "40.768296",
+        "lng": "-73.981736"
+    },
+    {
+        "Orgname": "6 AV",
+        "Modname": "5 Av",
+        "lat": "40.753821",
+        "lng": "-73.981963"
+    },
+    {
+        "Orgname": "61 ST WOODSIDE",
+        "Modname": "Woodside - 61 St",
+        "lat": "40.74563",
+        "lng": "-73.902984"
+    },
+    {
+        "Orgname": "63 DR-REGO PARK",
+        "Modname": "63 Dr - Rego Park",
+        "lat": "40.729846",
+        "lng": "-73.861604"
+    },
+    {
+        "Orgname": "65 ST",
+        "Modname": "65 St",
+        "lat": "40.749669",
+        "lng": "-73.898453"
+    },
+    {
+        "Orgname": "66 ST-LINCOLN",
+        "Modname": "66 St - Lincoln Center",
+        "lat": "40.77344",
+        "lng": "-73.982209"
+    },
+    {
+        "Orgname": "67 AV",
+        "Modname": "67 Av",
+        "lat": "40.726523",
+        "lng": "-73.852719"
+    },
+    {
+        "Orgname": "68ST-HUNTER CO",
+        "Modname": "68 St - Hunter College",
+        "lat": "40.768141",
+        "lng": "-73.96387"
+    },
+    {
+        "Orgname": "69 ST",
+        "Modname": "69 St",
+        "lat": "40.746325",
+        "lng": "-73.896403"
+    },
+    {
+        "Orgname": "7 AV",
+        "Modname": "5 Av",
+        "lat": "40.753821",
+        "lng": "-73.981963"
+    },
+    {
+        "Orgname": "71 ST",
+        "Modname": "71 St",
+        "lat": "40.619589",
+        "lng": "-73.998864"
+    },
+    {
+        "Orgname": "72 ST",
+        "Modname": "72 St",
+        "lat": "40.775594",
+        "lng": "-73.97641"
+    },
+    {
+        "Orgname": "74 ST-BROADWAY",
+        "Modname": "74 St - Broadway",
+        "lat": "40.746848",
+        "lng": "-73.891394"
+    },
+    {
+        "Orgname": "75 AV",
+        "Modname": "75 Av",
+        "lat": "40.718331",
+        "lng": "-73.837324"
+    },
+    {
+        "Orgname": "75 ST-ELDERTS",
+        "Modname": "Elder Av",
+        "lat": "40.828584",
+        "lng": "-73.879159"
+    },
+    {
+        "Orgname": "77 ST",
+        "Modname": "77 St",
+        "lat": "40.629742",
+        "lng": "-74.02551"
+    },
+    {
+        "Orgname": "79 ST",
+        "Modname": "79 St",
+        "lat": "40.613501",
+        "lng": "-74.00061"
+    },
+    {
+        "Orgname": "8 AV",
+        "Modname": "5 Av",
+        "lat": "40.753821",
+        "lng": "-73.981963"
+    },
+    {
+        "Orgname": "8 ST-NYU",
+        "Modname": "8 St - NYU",
+        "lat": "40.730328",
+        "lng": "-73.992629"
+    },
+    {
+        "Orgname": "80 ST",
+        "Modname": "80 St",
+        "lat": "40.679371",
+        "lng": "-73.858992"
+    },
+    {
+        "Orgname": "81 ST-MUSEUM",
+        "Modname": "81 St - Museum of Natural History",
+        "lat": "40.781433",
+        "lng": "-73.972143"
+    },
+    {
+        "Orgname": "82 ST-JACKSON H",
+        "Modname": "82 St - Jackson Hts",
+        "lat": "40.747659",
+        "lng": "-73.883697"
+    },
+    {
+        "Orgname": "85 ST-FOREST PK",
+        "Modname": "85 St - Forest Pkwy",
+        "lat": "40.692435",
+        "lng": "-73.86001"
+    },
+    {
+        "Orgname": "86 ST",
+        "Modname": "86 St",
+        "lat": "40.622687",
+        "lng": "-74.028398"
+    },
+    {
+        "Orgname": "88 ST",
+        "Modname": "88 St",
+        "lat": "40.679843",
+        "lng": "-73.85147"
+    },
+    {
+        "Orgname": "9 AV",
+        "Modname": "5 Av",
+        "lat": "40.753821",
+        "lng": "-73.981963"
+    },
+    {
+        "Orgname": "90 ST-ELMHURST",
+        "Modname": "90 St - Elmhurst Av",
+        "lat": "40.748408",
+        "lng": "-73.876613"
+    },
+    {
+        "Orgname": "96 ST",
+        "Modname": "96 St",
+        "lat": "40.791642",
+        "lng": "-73.964696"
+    },
+    {
+        "Orgname": "9TH STREET",
+        "Modname": "Freeman St",
+        "lat": "40.829993",
+        "lng": "-73.891865"
+    },
+    {
+        "Orgname": "ALABAMA AV",
+        "Modname": "Alabama Av",
+        "lat": "40.676992",
+        "lng": "-73.898654"
+    },
+    {
+        "Orgname": "ALLERTON AV",
+        "Modname": "Allerton Av",
+        "lat": "40.865462",
+        "lng": "-73.867352"
+    },
+    {
+        "Orgname": "AQUEDUCT N.COND",
+        "Modname": "Aqueduct - N Conduit Av",
+        "lat": "40.668234",
+        "lng": "-73.834058"
+    },
+    {
+        "Orgname": "AQUEDUCT RACETR",
+        "Modname": "Aqueduct Racetrack",
+        "lat": "40.668234",
+        "lng": "-73.834058"
+    },
+    {
+        "Orgname": "ASTOR PL",
+        "Modname": "Astor Pl",
+        "lat": "40.730054",
+        "lng": "-73.99107"
+    },
+    {
+        "Orgname": "ASTORIA BLVD",
+        "Modname": "Astoria Blvd",
+        "lat": "40.770258",
+        "lng": "-73.917843"
+    },
+    {
+        "Orgname": "ASTORIA DITMARS",
+        "Modname": "Astoria - Ditmars Blvd",
+        "lat": "40.775036",
+        "lng": "-73.912034"
+    },
+    {
+        "Orgname": "ATL AV-BARCLAY",
+        "Modname": "Atlantic Av - Barclays Ctr",
+        "lat": "40.683666",
+        "lng": "-73.97881"
+    },
+    {
+        "Orgname": "ATLANTIC AV",
+        "Modname": "Atlantic Av",
+        "lat": "40.675345",
+        "lng": "-73.903097"
+    },
+    {
+        "Orgname": "AVENUE H",
+        "Modname": "Avenue H",
+        "lat": "40.62927",
+        "lng": "-73.961639"
+    },
+    {
+        "Orgname": "AVENUE I",
+        "Modname": "Avenue H",
+        "lat": "40.62927",
+        "lng": "-73.961639"
+    },
+    {
+        "Orgname": "AVENUE J",
+        "Modname": "Avenue H",
+        "lat": "40.62927",
+        "lng": "-73.961639"
+    },
+    {
+        "Orgname": "AVENUE M",
+        "Modname": "Avenue H",
+        "lat": "40.62927",
+        "lng": "-73.961639"
+    },
+    {
+        "Orgname": "AVENUE N",
+        "Modname": "Avenue H",
+        "lat": "40.62927",
+        "lng": "-73.961639"
+    },
+    {
+        "Orgname": "AVENUE P",
+        "Modname": "Avenue H",
+        "lat": "40.62927",
+        "lng": "-73.961639"
+    },
+    {
+        "Orgname": "AVENUE U",
+        "Modname": "Avenue H",
+        "lat": "40.62927",
+        "lng": "-73.961639"
+    },
+    {
+        "Orgname": "AVENUE X",
+        "Modname": "Avenue H",
+        "lat": "40.62927",
+        "lng": "-73.961639"
+    },
+    {
+        "Orgname": "B'WAY-LAFAYETTE",
+        "Modname": "Lafayette Av",
+        "lat": "40.686113",
+        "lng": "-73.973946"
+    },
+    {
+        "Orgname": "BAY 50 ST",
+        "Modname": "Bay 50 St",
+        "lat": "40.588841",
+        "lng": "-73.983765"
+    },
+    {
+        "Orgname": "BAY PKWY",
+        "Modname": "Bay Pkwy",
+        "lat": "40.611815",
+        "lng": "-73.981848"
+    },
+    {
+        "Orgname": "BAY RIDGE AV",
+        "Modname": "Bay Ridge Av",
+        "lat": "40.634967",
+        "lng": "-74.023377"
+    },
+    {
+        "Orgname": "BAYCHESTER AV",
+        "Modname": "Baychester Av",
+        "lat": "40.878663",
+        "lng": "-73.838591"
+    },
+    {
+        "Orgname": "BEACH 105 ST",
+        "Modname": "Beach 105 St",
+        "lat": "40.583209",
+        "lng": "-73.827559"
+    },
+    {
+        "Orgname": "BEACH 25 ST",
+        "Modname": "Beach 25 St",
+        "lat": "40.600066",
+        "lng": "-73.761353"
+    },
+    {
+        "Orgname": "BEACH 36 ST",
+        "Modname": "Beach 36 St",
+        "lat": "40.595398",
+        "lng": "-73.768175"
+    },
+    {
+        "Orgname": "BEACH 44 ST",
+        "Modname": "Beach 44 St",
+        "lat": "40.592943",
+        "lng": "-73.776013"
+    },
+    {
+        "Orgname": "BEACH 60 ST",
+        "Modname": "Beach 60 St",
+        "lat": "40.592374",
+        "lng": "-73.788522"
+    },
+    {
+        "Orgname": "BEACH 67 ST",
+        "Modname": "Beach 67 St",
+        "lat": "40.590927",
+        "lng": "-73.796924"
+    },
+    {
+        "Orgname": "BEACH 90 ST",
+        "Modname": "Beach 90 St",
+        "lat": "40.588034",
+        "lng": "-73.813641"
+    },
+    {
+        "Orgname": "BEACH 98 ST",
+        "Modname": "Beach 98 St",
+        "lat": "40.585307",
+        "lng": "-73.820558"
+    },
+    {
+        "Orgname": "BEDFORD-NOSTRAN",
+        "Modname": "Bedford - Nostrand Avs",
+        "lat": "40.689627",
+        "lng": "-73.953522"
+    },
+    {
+        "Orgname": "BEDFORD AV",
+        "Modname": "Bedford Av",
+        "lat": "40.717304",
+        "lng": "-73.956872"
+    },
+    {
+        "Orgname": "BEDFORD PK BLVD",
+        "Modname": "Bedford Park Blvd",
+        "lat": "40.873244",
+        "lng": "-73.887138"
+    },
+    {
+        "Orgname": "BERGEN ST",
+        "Modname": "Bergen St",
+        "lat": "40.686145",
+        "lng": "-73.990862"
+    },
+    {
+        "Orgname": "BEVERLEY ROAD",
+        "Modname": "Beverley Rd",
+        "lat": "40.644031",
+        "lng": "-73.964492"
+    },
+    {
+        "Orgname": "BEVERLY RD",
+        "Modname": "Beverly Rd",
+        "lat": "40.645098",
+        "lng": "-73.948959"
+    },
+    {
+        "Orgname": "BLEECKER ST",
+        "Modname": "Bleecker St",
+        "lat": "40.725915",
+        "lng": "-73.994659"
+    },
+    {
+        "Orgname": "BOROUGH HALL",
+        "Modname": "Borough Hall",
+        "lat": "40.692404",
+        "lng": "-73.990151"
+    },
+    {
+        "Orgname": "BOTANIC GARDEN",
+        "Modname": "Botanic Garden",
+        "lat": "40.670343",
+        "lng": "-73.959245"
+    },
+    {
+        "Orgname": "BOWERY",
+        "Modname": "Bowery",
+        "lat": "40.72028",
+        "lng": "-73.993915"
+    },
+    {
+        "Orgname": "BOWLING GREEN",
+        "Modname": "Bowling Green",
+        "lat": "40.704817",
+        "lng": "-74.014065"
+    },
+    {
+        "Orgname": "BRIARWOOD",
+        "Modname": "Briarwood - Van Wyck Blvd",
+        "lat": "40.709179",
+        "lng": "-73.820574"
+    },
+    {
+        "Orgname": "BRIGHTON BEACH",
+        "Modname": "Brighton Beach",
+        "lat": "40.577621",
+        "lng": "-73.961376"
+    },
+    {
+        "Orgname": "BROAD CHANNEL",
+        "Modname": "Broad Channel",
+        "lat": "40.608382",
+        "lng": "-73.815925"
+    },
+    {
+        "Orgname": "BROAD ST",
+        "Modname": "Broad St",
+        "lat": "40.706476",
+        "lng": "-74.011056"
+    },
+    {
+        "Orgname": "BROADWAY",
+        "Modname": "Broadway",
+        "lat": "40.76182",
+        "lng": "-73.925508"
+    },
+    {
+        "Orgname": "BROADWAY JCT",
+        "Modname": "Broadway Jct",
+        "lat": "40.678856",
+        "lng": "-73.90324"
+    },
+    {
+        "Orgname": "BRONX PARK EAST",
+        "Modname": "Bronx Park East",
+        "lat": "40.848828",
+        "lng": "-73.868457"
+    },
+    {
+        "Orgname": "BROOK AV",
+        "Modname": "Brook Av",
+        "lat": "40.807566",
+        "lng": "-73.91924"
+    },
+    {
+        "Orgname": "BROOKLYN BRIDGE",
+        "Modname": "Brooklyn Bridge - City Hall",
+        "lat": "40.713065",
+        "lng": "-74.004131"
+    },
+    {
+        "Orgname": "BUHRE AV",
+        "Modname": "Buhre Av",
+        "lat": "40.84681",
+        "lng": "-73.832569"
+    },
+    {
+        "Orgname": "BURKE AV",
+        "Modname": "Burke Av",
+        "lat": "40.871356",
+        "lng": "-73.867164"
+    },
+    {
+        "Orgname": "BURNSIDE AV",
+        "Modname": "Burnside Av",
+        "lat": "40.853453",
+        "lng": "-73.907684"
+    },
+    {
+        "Orgname": "BUSHWICK AV",
+        "Modname": "Bushwick Av - Aberdeen St",
+        "lat": "40.682829",
+        "lng": "-73.905249"
+    },
+    {
+        "Orgname": "CANAL ST",
+        "Modname": "Canal St",
+        "lat": "40.719527",
+        "lng": "-74.001775"
+    },
+    {
+        "Orgname": "CANARSIE-ROCKAW",
+        "Modname": "Canarsie - Rockaway Pkwy",
+        "lat": "40.646654",
+        "lng": "-73.90185"
+    },
+    {
+        "Orgname": "CARROLL ST",
+        "Modname": "Carroll St",
+        "lat": "40.680303",
+        "lng": "-73.995048"
+    },
+    {
+        "Orgname": "CASTLE HILL AV",
+        "Modname": "Castle Hill Av",
+        "lat": "40.834255",
+        "lng": "-73.851222"
+    },
+    {
+        "Orgname": "CATHEDRAL PKWY",
+        "Modname": "Cathedral Pkwy",
+        "lat": "40.803967",
+        "lng": "-73.966847"
+    },
+    {
+        "Orgname": "CENTRAL AV",
+        "Modname": "Central Av",
+        "lat": "40.697857",
+        "lng": "-73.927397"
+    },
+    {
+        "Orgname": "CENTRAL PK N110",
+        "Modname": "Central Av",
+        "lat": "40.697857",
+        "lng": "-73.927397"
+    },
+    {
+        "Orgname": "CHAMBERS ST",
+        "Modname": "Chambers St",
+        "lat": "40.713243",
+        "lng": "-74.003401"
+    },
+    {
+        "Orgname": "CHAUNCEY ST",
+        "Modname": "Chauncey St",
+        "lat": "40.682893",
+        "lng": "-73.910456"
+    },
+    {
+        "Orgname": "CHRISTOPHER ST",
+        "Modname": "Christopher St - Sheridan Sq",
+        "lat": "40.733422",
+        "lng": "-74.002906"
+    },
+    {
+        "Orgname": "CHURCH AV",
+        "Modname": "Church Av",
+        "lat": "40.644041",
+        "lng": "-73.979678"
+    },
+    {
+        "Orgname": "CITY / BUS",
+        "Modname": "City Hall",
+        "lat": "40.713282",
+        "lng": "-74.006978"
+    },
+    {
+        "Orgname": "CITY HALL",
+        "Modname": "City Hall",
+        "lat": "40.713282",
+        "lng": "-74.006978"
+    },
+    {
+        "Orgname": "CLARK ST",
+        "Modname": "Clark St",
+        "lat": "40.697466",
+        "lng": "-73.993086"
+    },
+    {
+        "Orgname": "CLASSON AV",
+        "Modname": "Classon Av",
+        "lat": "40.688873",
+        "lng": "-73.96007"
+    },
+    {
+        "Orgname": "CLEVELAND ST",
+        "Modname": "Cleveland St",
+        "lat": "40.679947",
+        "lng": "-73.884639"
+    },
+    {
+        "Orgname": "CLINTON-WASH AV",
+        "Modname": "Clinton - Washington Avs",
+        "lat": "40.688089",
+        "lng": "-73.966839"
+    },
+    {
+        "Orgname": "CONEY IS-STILLW",
+        "Modname": "Coney Island - Stillwell Av",
+        "lat": "40.577422",
+        "lng": "-73.981233"
+    },
+    {
+        "Orgname": "CORTELYOU RD",
+        "Modname": "Cortelyou Rd",
+        "lat": "40.640927",
+        "lng": "-73.963891"
+    },
+    {
+        "Orgname": "CORTLANDT ST",
+        "Modname": "Cortlandt St",
+        "lat": "40.710668",
+        "lng": "-74.011029"
+    },
+    {
+        "Orgname": "COURT SQ",
+        "Modname": "Court Sq",
+        "lat": "40.746554",
+        "lng": "-73.943832"
+    },
+    {
+        "Orgname": "COURT SQ-23 ST",
+        "Modname": "Court Sq",
+        "lat": "40.746554",
+        "lng": "-73.943832"
+    },
+    {
+        "Orgname": "CRESCENT ST",
+        "Modname": "Crescent St",
+        "lat": "40.683194",
+        "lng": "-73.873785"
+    },
+    {
+        "Orgname": "CROWN HTS-UTICA",
+        "Modname": "Crown Hts - Utica Av",
+        "lat": "40.668897",
+        "lng": "-73.932942"
+    },
+    {
+        "Orgname": "CYPRESS AV",
+        "Modname": "Cypress Av",
+        "lat": "40.805368",
+        "lng": "-73.914042"
+    },
+    {
+        "Orgname": "CYPRESS HILLS",
+        "Modname": "Cypress Hills",
+        "lat": "40.689941",
+        "lng": "-73.87255"
+    },
+    {
+        "Orgname": "DEKALB AV",
+        "Modname": "DeKalb Av",
+        "lat": "40.690635",
+        "lng": "-73.981824"
+    },
+    {
+        "Orgname": "DELANCEY/ESSEX",
+        "Modname": "Delancey St",
+        "lat": "40.718611",
+        "lng": "-73.988114"
+    },
+    {
+        "Orgname": "DITMAS AV",
+        "Modname": "Ditmas Av",
+        "lat": "40.636119",
+        "lng": "-73.978172"
+    },
+    {
+        "Orgname": "DYCKMAN ST",
+        "Modname": "Dyckman St",
+        "lat": "40.865491",
+        "lng": "-73.927271"
+    },
+    {
+        "Orgname": "E 143/ST MARY'S",
+        "Modname": "E 143 St - St Mary's St",
+        "lat": "40.808719",
+        "lng": "-73.907657"
+    },
+    {
+        "Orgname": "E 149 ST",
+        "Modname": "E 149 St",
+        "lat": "40.812118",
+        "lng": "-73.904098"
+    },
+    {
+        "Orgname": "E 180 ST",
+        "Modname": "E 180 St",
+        "lat": "40.841894",
+        "lng": "-73.873488"
+    },
+    {
+        "Orgname": "EAST 105 ST",
+        "Modname": "E 105 St",
+        "lat": "40.650573",
+        "lng": "-73.899485"
+    },
+    {
+        "Orgname": "EAST BROADWAY",
+        "Modname": "East Broadway",
+        "lat": "40.713715",
+        "lng": "-73.990173"
+    },
+    {
+        "Orgname": "EASTCHSTER/DYRE",
+        "Modname": "Eastchester - Dyre Av",
+        "lat": "40.8883",
+        "lng": "-73.830834"
+    },
+    {
+        "Orgname": "EASTN PKWY-MUSM",
+        "Modname": "Eastern Pkwy - Brooklyn Museum",
+        "lat": "40.671987",
+        "lng": "-73.964375"
+    },
+    {
+        "Orgname": "ELDER AV",
+        "Modname": "Elder Av",
+        "lat": "40.828584",
+        "lng": "-73.879159"
+    },
+    {
+        "Orgname": "ELMHURST AV",
+        "Modname": "Elmhurst Av",
+        "lat": "40.742454",
+        "lng": "-73.882017"
+    },
+    {
+        "Orgname": "EUCLID AV",
+        "Modname": "Euclid Av",
+        "lat": "40.675377",
+        "lng": "-73.872106"
+    },
+    {
+        "Orgname": "EXCHANGE PLACE",
+        "Modname": "Delancey St",
+        "lat": "40.718611",
+        "lng": "-73.988114"
+    },
+    {
+        "Orgname": "FAR ROCKAWAY",
+        "Modname": "Rockaway Av",
+        "lat": "40.67834",
+        "lng": "-73.911946"
+    },
+    {
+        "Orgname": "FLATBUSH AV-B.C",
+        "Modname": "Flatbush Av - Brooklyn College",
+        "lat": "40.632836",
+        "lng": "-73.947642"
+    },
+    {
+        "Orgname": "FLUSHING-MAIN",
+        "Modname": "Flushing - Main St",
+        "lat": "40.7596",
+        "lng": "-73.83003"
+    },
+    {
+        "Orgname": "FLUSHING AV",
+        "Modname": "Flushing Av",
+        "lat": "40.70026",
+        "lng": "-73.941126"
+    },
+    {
+        "Orgname": "FORDHAM RD",
+        "Modname": "Fordham Rd",
+        "lat": "40.861296",
+        "lng": "-73.897749"
+    },
+    {
+        "Orgname": "FOREST AVE",
+        "Modname": "Forest Av",
+        "lat": "40.704423",
+        "lng": "-73.903077"
+    },
+    {
+        "Orgname": "FOREST HILLS 71",
+        "Modname": "Forest Hills - 71 Av",
+        "lat": "40.721691",
+        "lng": "-73.844521"
+    },
+    {
+        "Orgname": "FRANKLIN AV",
+        "Modname": "Franklin Av",
+        "lat": "40.680596",
+        "lng": "-73.955827"
+    },
+    {
+        "Orgname": "FRANKLIN ST",
+        "Modname": "Franklin St",
+        "lat": "40.719318",
+        "lng": "-74.006886"
+    },
+    {
+        "Orgname": "FREEMAN ST",
+        "Modname": "Freeman St",
+        "lat": "40.829993",
+        "lng": "-73.891865"
+    },
+    {
+        "Orgname": "FRESH POND RD",
+        "Modname": "Fresh Pond Rd",
+        "lat": "40.706186",
+        "lng": "-73.895877"
+    },
+    {
+        "Orgname": "FT HAMILTON PKY",
+        "Modname": "Fort Hamilton Pkwy",
+        "lat": "40.631386",
+        "lng": "-74.005351"
+    },
+    {
+        "Orgname": "FULTON ST",
+        "Modname": "Fulton St",
+        "lat": "40.710374",
+        "lng": "-74.007582"
+    },
+    {
+        "Orgname": "GATES AV",
+        "Modname": "Gates Av",
+        "lat": "40.68963",
+        "lng": "-73.92227"
+    },
+    {
+        "Orgname": "GRAHAM AV",
+        "Modname": "Graham Av",
+        "lat": "40.714565",
+        "lng": "-73.944053"
+    },
+    {
+        "Orgname": "GRAND-NEWTOWN",
+        "Modname": "Grand Av - Newtown",
+        "lat": "40.737015",
+        "lng": "-73.877223"
+    },
+    {
+        "Orgname": "GRAND ARMY PLAZ",
+        "Modname": "Grand Army Plaza",
+        "lat": "40.675235",
+        "lng": "-73.971046"
+    },
+    {
+        "Orgname": "GRAND ST",
+        "Modname": "Grand St",
+        "lat": "40.711926",
+        "lng": "-73.94067"
+    },
+    {
+        "Orgname": "GRANT AV",
+        "Modname": "Grant Av",
+        "lat": "40.677044",
+        "lng": "-73.86505"
+    },
+    {
+        "Orgname": "GRD CNTRL-42 ST",
+        "Modname": "Grand Central - 42 St",
+        "lat": "40.752769",
+        "lng": "-73.979189"
+    },
+    {
+        "Orgname": "GREENPOINT AV",
+        "Modname": "Greenpoint Av",
+        "lat": "40.731352",
+        "lng": "-73.954449"
+    },
+    {
+        "Orgname": "GROVE STREET",
+        "Modname": "Jay St - MetroTech",
+        "lat": "40.69218",
+        "lng": "-73.985942"
+    },
+    {
+        "Orgname": "GUN HILL RD",
+        "Modname": "Gun Hill Rd",
+        "lat": "40.869526",
+        "lng": "-73.846384"
+    },
+    {
+        "Orgname": "HALSEY ST",
+        "Modname": "Halsey St",
+        "lat": "40.695602",
+        "lng": "-73.904084"
+    },
+    {
+        "Orgname": "HARLEM 148 ST",
+        "Modname": "Harlem - 148 St",
+        "lat": "40.82388",
+        "lng": "-73.93647"
+    },
+    {
+        "Orgname": "HARRISON",
+        "Modname": "Morris Park",
+        "lat": "40.854364",
+        "lng": "-73.860495"
+    },
+    {
+        "Orgname": "HEWES ST",
+        "Modname": "Hewes St",
+        "lat": "40.70687",
+        "lng": "-73.953431"
+    },
+    {
+        "Orgname": "HIGH ST",
+        "Modname": "High St",
+        "lat": "40.699337",
+        "lng": "-73.990531"
+    },
+    {
+        "Orgname": "HOUSTON ST",
+        "Modname": "Houston St",
+        "lat": "40.728251",
+        "lng": "-74.005367"
+    },
+    {
+        "Orgname": "HOWARD BCH JFK",
+        "Modname": "Howard Beach - JFK Airport",
+        "lat": "40.660476",
+        "lng": "-73.830301"
+    },
+    {
+        "Orgname": "HOYT-SCHER",
+        "Modname": "Hoyt - Schermerhorn Sts",
+        "lat": "40.688484",
+        "lng": "-73.985001"
+    },
+    {
+        "Orgname": "HOYT ST",
+        "Modname": "Hoyt St",
+        "lat": "40.690545",
+        "lng": "-73.985065"
+    },
+    {
+        "Orgname": "HUNTERS PT AV",
+        "Modname": "Hunters Point Av",
+        "lat": "40.742216",
+        "lng": "-73.948916"
+    },
+    {
+        "Orgname": "HUNTS POINT AV",
+        "Modname": "Hunts Point Av",
+        "lat": "40.820948",
+        "lng": "-73.890549"
+    },
+    {
+        "Orgname": "INTERVALE AV",
+        "Modname": "Intervale Av",
+        "lat": "40.822181",
+        "lng": "-73.896736"
+    },
+    {
+        "Orgname": "INWOOD-207 ST",
+        "Modname": "Inwood - 207 St",
+        "lat": "40.868072",
+        "lng": "-73.919899"
+    },
+    {
+        "Orgname": "JACKSON AV",
+        "Modname": "Jackson Av",
+        "lat": "40.81649",
+        "lng": "-73.907807"
+    },
+    {
+        "Orgname": "JAMAICA 179 ST",
+        "Modname": "Jamaica - 179 St",
+        "lat": "40.712646",
+        "lng": "-73.783817"
+    },
+    {
+        "Orgname": "JAMAICA CENTER",
+        "Modname": "Jamaica Center - Parsons/Archer",
+        "lat": "40.702147",
+        "lng": "-73.801109"
+    },
+    {
+        "Orgname": "JAMAICA VAN WK",
+        "Modname": "Jamaica - Van Wyck",
+        "lat": "40.702566",
+        "lng": "-73.816859"
+    },
+    {
+        "Orgname": "JAY ST-METROTEC",
+        "Modname": "Jay St - MetroTech",
+        "lat": "40.69218",
+        "lng": "-73.985942"
+    },
+    {
+        "Orgname": "JEFFERSON ST",
+        "Modname": "Jefferson St",
+        "lat": "40.706607",
+        "lng": "-73.922913"
+    },
+    {
+        "Orgname": "JFK JAMAICA CT1",
+        "Modname": "Jamaica - 179 St",
+        "lat": "40.712646",
+        "lng": "-73.783817"
+    },
+    {
+        "Orgname": "JKSN HT-ROOSVLT",
+        "Modname": "Jackson Hts - Roosevelt Av",
+        "lat": "40.746644",
+        "lng": "-73.891338"
+    },
+    {
+        "Orgname": "JOURNAL SQUARE",
+        "Modname": "Court Sq",
+        "lat": "40.746554",
+        "lng": "-73.943832"
+    },
+    {
+        "Orgname": "JUNCTION BLVD",
+        "Modname": "Junction Blvd",
+        "lat": "40.749145",
+        "lng": "-73.869527"
+    },
+    {
+        "Orgname": "JUNIUS ST",
+        "Modname": "Junius St",
+        "lat": "40.663515",
+        "lng": "-73.902447"
+    },
+    {
+        "Orgname": "KEW GARDENS",
+        "Modname": "Kew Gardens - Union Tpke",
+        "lat": "40.714441",
+        "lng": "-73.831008"
+    },
+    {
+        "Orgname": "KINGS HWY",
+        "Modname": "Kings Hwy",
+        "lat": "40.603923",
+        "lng": "-73.980353"
+    },
+    {
+        "Orgname": "KINGSBRIDGE RD",
+        "Modname": "Kingsbridge Rd",
+        "lat": "40.866978",
+        "lng": "-73.893509"
+    },
+    {
+        "Orgname": "KINGSTON-THROOP",
+        "Modname": "Kingston - Throop Avs",
+        "lat": "40.679921",
+        "lng": "-73.940858"
+    },
+    {
+        "Orgname": "KINGSTON AV",
+        "Modname": "Kingston Av",
+        "lat": "40.669399",
+        "lng": "-73.942161"
+    },
+    {
+        "Orgname": "KNICKERBOCKER",
+        "Modname": "Knickerbocker Av",
+        "lat": "40.698664",
+        "lng": "-73.919711"
+    },
+    {
+        "Orgname": "KOSCIUSZKO ST",
+        "Modname": "Kosciuszko St",
+        "lat": "40.693342",
+        "lng": "-73.928814"
+    },
+    {
+        "Orgname": "LACKAWANNA",
+        "Modname": "Rockaway Av",
+        "lat": "40.67834",
+        "lng": "-73.911946"
+    },
+    {
+        "Orgname": "LAFAYETTE AV",
+        "Modname": "Lafayette Av",
+        "lat": "40.686113",
+        "lng": "-73.973946"
+    },
+    {
+        "Orgname": "LEXINGTON AV/53",
+        "Modname": "Lexington Av/53 St",
+        "lat": "40.757552",
+        "lng": "-73.969055"
+    },
+    {
+        "Orgname": "LEXINGTON AV/63",
+        "Modname": "Lexington Av/63 St",
+        "lat": "40.764629",
+        "lng": "-73.966113"
+    },
+    {
+        "Orgname": "LIBERTY AV",
+        "Modname": "Liberty Av",
+        "lat": "40.674542",
+        "lng": "-73.896548"
+    },
+    {
+        "Orgname": "LIVONIA AV",
+        "Modname": "Livonia Av",
+        "lat": "40.664038",
+        "lng": "-73.900571"
+    },
+    {
+        "Orgname": "LONGWOOD AV",
+        "Modname": "Longwood Av",
+        "lat": "40.816104",
+        "lng": "-73.896435"
+    },
+    {
+        "Orgname": "LORIMER ST",
+        "Modname": "Lorimer St",
+        "lat": "40.703869",
+        "lng": "-73.947408"
+    },
+    {
+        "Orgname": "MARBLE HILL-225",
+        "Modname": "Marble Hill - 225 St",
+        "lat": "40.874561",
+        "lng": "-73.909831"
+    },
+    {
+        "Orgname": "MARCY AV",
+        "Modname": "Marcy Av",
+        "lat": "40.708359",
+        "lng": "-73.957757"
+    },
+    {
+        "Orgname": "METROPOLITAN AV",
+        "Modname": "Metropolitan Av",
+        "lat": "40.712792",
+        "lng": "-73.951418"
+    },
+    {
+        "Orgname": "METS-WILLETS PT",
+        "Modname": "Mets - Willets Point",
+        "lat": "40.754622",
+        "lng": "-73.845625"
+    },
+    {
+        "Orgname": "MIDDLETOWN RD",
+        "Modname": "Middletown Rd",
+        "lat": "40.843863",
+        "lng": "-73.836322"
+    },
+    {
+        "Orgname": "MONTROSE AV",
+        "Modname": "Montrose Av",
+        "lat": "40.707739",
+        "lng": "-73.93985"
+    },
+    {
+        "Orgname": "MORGAN AV",
+        "Modname": "Morgan Av",
+        "lat": "40.706152",
+        "lng": "-73.933147"
+    },
+    {
+        "Orgname": "MORISN AV/SNDVW",
+        "Modname": "Morrison Av- Sound View",
+        "lat": "40.829521",
+        "lng": "-73.874516"
+    },
+    {
+        "Orgname": "MORRIS PARK",
+        "Modname": "Morris Park",
+        "lat": "40.854364",
+        "lng": "-73.860495"
+    },
+    {
+        "Orgname": "MOSHOLU PKWY",
+        "Modname": "Mosholu Pkwy",
+        "lat": "40.87975",
+        "lng": "-73.884655"
+    },
+    {
+        "Orgname": "MT EDEN AV",
+        "Modname": "Mt Eden Av",
+        "lat": "40.844434",
+        "lng": "-73.914685"
+    },
+    {
+        "Orgname": "MYRTLE-WILLOUGH",
+        "Modname": "Myrtle - Willoughby Avs",
+        "lat": "40.694568",
+        "lng": "-73.949046"
+    },
+    {
+        "Orgname": "MYRTLE-WYCKOFF",
+        "Modname": "Myrtle - Wyckoff Avs",
+        "lat": "40.69943",
+        "lng": "-73.912385"
+    },
+    {
+        "Orgname": "MYRTLE AV",
+        "Modname": "Myrtle Av",
+        "lat": "40.697207",
+        "lng": "-73.935657"
+    },
+    {
+        "Orgname": "NASSAU ST",
+        "Modname": "Nassau",
+        "lat": "40.517812",
+        "lng": "-74.238373"
+    },
+    {
+        "Orgname": "NECK RD",
+        "Modname": "Neck Rd",
+        "lat": "40.595246",
+        "lng": "-73.955161"
+    },
+    {
+        "Orgname": "NEPTUNE AV",
+        "Modname": "Neptune Av",
+        "lat": "40.581011",
+        "lng": "-73.974574"
+    },
+    {
+        "Orgname": "NEREID AV",
+        "Modname": "Nereid Av",
+        "lat": "40.898379",
+        "lng": "-73.854376"
+    },
+    {
+        "Orgname": "NEVINS ST",
+        "Modname": "Nevins St",
+        "lat": "40.688246",
+        "lng": "-73.980492"
+    },
+    {
+        "Orgname": "NEW LOTS",
+        "Modname": "New Lots Av",
+        "lat": "40.658733",
+        "lng": "-73.899232"
+    },
+    {
+        "Orgname": "NEW LOTS AV",
+        "Modname": "New Lots Av",
+        "lat": "40.658733",
+        "lng": "-73.899232"
+    },
+    {
+        "Orgname": "NEW UTRECHT AV",
+        "Modname": "New Utrecht Av",
+        "lat": "40.624842",
+        "lng": "-73.996353"
+    },
+    {
+        "Orgname": "NEWARK BM BW",
+        "Modname": "Newkirk Av",
+        "lat": "40.639967",
+        "lng": "-73.948411"
+    },
+    {
+        "Orgname": "NEWARK C",
+        "Modname": "Newkirk Av",
+        "lat": "40.639967",
+        "lng": "-73.948411"
+    },
+    {
+        "Orgname": "NEWARK HM HE",
+        "Modname": "Newkirk Av",
+        "lat": "40.639967",
+        "lng": "-73.948411"
+    },
+    {
+        "Orgname": "NEWARK HW BMEBE",
+        "Modname": "Newkirk Av",
+        "lat": "40.639967",
+        "lng": "-73.948411"
+    },
+    {
+        "Orgname": "NEWKIRK AV",
+        "Modname": "Newkirk Av",
+        "lat": "40.639967",
+        "lng": "-73.948411"
+    },
+    {
+        "Orgname": "NEWKIRK PLAZA",
+        "Modname": "Newkirk Plaza",
+        "lat": "40.635082",
+        "lng": "-73.962793"
+    },
+    {
+        "Orgname": "NORTHERN BLVD",
+        "Modname": "Northern Blvd",
+        "lat": "40.752885",
+        "lng": "-73.906006"
+    },
+    {
+        "Orgname": "NORWOOD 205 ST",
+        "Modname": "Norwood - 205 St",
+        "lat": "40.874811",
+        "lng": "-73.878855"
+    },
+    {
+        "Orgname": "NORWOOD AV",
+        "Modname": "Norwood Av",
+        "lat": "40.68141",
+        "lng": "-73.880039"
+    },
+    {
+        "Orgname": "NOSTRAND AV",
+        "Modname": "Nostrand Av",
+        "lat": "40.680438",
+        "lng": "-73.950426"
+    },
+    {
+        "Orgname": "OCEAN PKWY",
+        "Modname": "Ocean Pkwy",
+        "lat": "40.576312",
+        "lng": "-73.968501"
+    },
+    {
+        "Orgname": "OZONE PK LEFFRT",
+        "Modname": "Ozone Park - Lefferts Blvd",
+        "lat": "40.685951",
+        "lng": "-73.825798"
+    },
+    {
+        "Orgname": "PARK PLACE",
+        "Modname": "Park Pl",
+        "lat": "40.674772",
+        "lng": "-73.957624"
+    },
+    {
+        "Orgname": "PARKCHESTER",
+        "Modname": "Parkchester",
+        "lat": "40.833226",
+        "lng": "-73.860816"
+    },
+    {
+        "Orgname": "PARKSIDE AV",
+        "Modname": "Parkside Av",
+        "lat": "40.655292",
+        "lng": "-73.961495"
+    },
+    {
+        "Orgname": "PARSONS BLVD",
+        "Modname": "Parsons Blvd",
+        "lat": "40.707564",
+        "lng": "-73.803326"
+    },
+    {
+        "Orgname": "PATH WTC",
+        "Modname": "Cathedral Pkwy",
+        "lat": "40.803967",
+        "lng": "-73.966847"
+    },
+    {
+        "Orgname": "PATH WTC 2",
+        "Modname": "Cathedral Pkwy",
+        "lat": "40.803967",
+        "lng": "-73.966847"
+    },
+    {
+        "Orgname": "PAVONIA/NEWPORT",
+        "Modname": "Livonia Av",
+        "lat": "40.664038",
+        "lng": "-73.900571"
+    },
+    {
+        "Orgname": "PELHAM BAY PARK",
+        "Modname": "Pelham Bay Park",
+        "lat": "40.852462",
+        "lng": "-73.828121"
+    },
+    {
+        "Orgname": "PELHAM PKWY",
+        "Modname": "Pelham Pkwy",
+        "lat": "40.858985",
+        "lng": "-73.855359"
+    },
+    {
+        "Orgname": "PRESIDENT ST",
+        "Modname": "President St",
+        "lat": "40.667883",
+        "lng": "-73.950683"
+    },
+    {
+        "Orgname": "PRINCE ST",
+        "Modname": "Prince St",
+        "lat": "40.724329",
+        "lng": "-73.997702"
+    },
+    {
+        "Orgname": "PROSPECT AV",
+        "Modname": "Prospect Av",
+        "lat": "40.665414",
+        "lng": "-73.992872"
+    },
+    {
+        "Orgname": "PROSPECT PARK",
+        "Modname": "Prospect Park",
+        "lat": "40.661614",
+        "lng": "-73.962246"
+    },
+    {
+        "Orgname": "QUEENS PLAZA",
+        "Modname": "Queens Plaza",
+        "lat": "40.748973",
+        "lng": "-73.937243"
+    },
+    {
+        "Orgname": "QUEENSBORO PLZ",
+        "Modname": "Queensboro Plaza",
+        "lat": "40.750582",
+        "lng": "-73.940202"
+    },
+    {
+        "Orgname": "RALPH AV",
+        "Modname": "Ralph Av",
+        "lat": "40.678822",
+        "lng": "-73.920786"
+    },
+    {
+        "Orgname": "RECTOR ST",
+        "Modname": "Rector St",
+        "lat": "40.70722",
+        "lng": "-74.013342"
+    },
+    {
+        "Orgname": "RIT-MANHATTAN",
+        "Modname": "Metropolitan Av",
+        "lat": "40.712792",
+        "lng": "-73.951418"
+    },
+    {
+        "Orgname": "RIT-ROOSEVELT",
+        "Modname": "Roosevelt Island",
+        "lat": "40.759145",
+        "lng": "-73.95326"
+    },
+    {
+        "Orgname": "ROCKAWAY AV",
+        "Modname": "Rockaway Av",
+        "lat": "40.67834",
+        "lng": "-73.911946"
+    },
+    {
+        "Orgname": "ROCKAWAY BLVD",
+        "Modname": "Rockaway Blvd",
+        "lat": "40.680429",
+        "lng": "-73.843853"
+    },
+    {
+        "Orgname": "ROCKAWAY PARK B",
+        "Modname": "Rockaway Av",
+        "lat": "40.67834",
+        "lng": "-73.911946"
+    },
+    {
+        "Orgname": "ROOSEVELT ISLND",
+        "Modname": "Roosevelt Island",
+        "lat": "40.759145",
+        "lng": "-73.95326"
+    },
+    {
+        "Orgname": "SENECA AVE",
+        "Modname": "Seneca Av",
+        "lat": "40.702762",
+        "lng": "-73.90774"
+    },
+    {
+        "Orgname": "SHEEPSHEAD BAY",
+        "Modname": "Sheepshead Bay",
+        "lat": "40.586896",
+        "lng": "-73.954155"
+    },
+    {
+        "Orgname": "SHEPHERD AV",
+        "Modname": "Shepherd Av",
+        "lat": "40.67413",
+        "lng": "-73.88075"
+    },
+    {
+        "Orgname": "SIMPSON ST",
+        "Modname": "Simpson St",
+        "lat": "40.824073",
+        "lng": "-73.893064"
+    },
+    {
+        "Orgname": "SMITH-9 ST",
+        "Modname": "Smith - 9 Sts",
+        "lat": "40.67358",
+        "lng": "-73.995959"
+    },
+    {
+        "Orgname": "SOUTH FERRY",
+        "Modname": "South Ferry Loop",
+        "lat": "40.701411",
+        "lng": "-74.013205"
+    },
+    {
+        "Orgname": "SPRING ST",
+        "Modname": "Spring St",
+        "lat": "40.726227",
+        "lng": "-74.003739"
+    },
+    {
+        "Orgname": "ST LAWRENCE AV",
+        "Modname": "St Lawrence Av",
+        "lat": "40.831509",
+        "lng": "-73.867618"
+    },
+    {
+        "Orgname": "ST. GEORGE",
+        "Modname": "St George",
+        "lat": "40.643748",
+        "lng": "-74.073643"
+    },
+    {
+        "Orgname": "STEINWAY ST",
+        "Modname": "Steinway St",
+        "lat": "40.756879",
+        "lng": "-73.92074"
+    },
+    {
+        "Orgname": "STERLING ST",
+        "Modname": "Sterling St",
+        "lat": "40.662742",
+        "lng": "-73.95085"
+    },
+    {
+        "Orgname": "SUTPHIN-ARCHER",
+        "Modname": "Sutphin Blvd - Archer Av - JFK Airport",
+        "lat": "40.700486",
+        "lng": "-73.807969"
+    },
+    {
+        "Orgname": "SUTPHIN BLVD",
+        "Modname": "Sutphin Blvd",
+        "lat": "40.70546",
+        "lng": "-73.810708"
+    },
+    {
+        "Orgname": "SUTTER AV",
+        "Modname": "Sutter Av",
+        "lat": "40.669367",
+        "lng": "-73.901975"
+    },
+    {
+        "Orgname": "SUTTER AV-RUTLD",
+        "Modname": "Sutter Av - Rutland Rd",
+        "lat": "40.664717",
+        "lng": "-73.92261"
+    },
+    {
+        "Orgname": "THIRTY ST",
+        "Modname": "High St",
+        "lat": "40.699337",
+        "lng": "-73.990531"
+    },
+    {
+        "Orgname": "THIRTY THIRD ST",
+        "Modname": "High St",
+        "lat": "40.699337",
+        "lng": "-73.990531"
+    },
+    {
+        "Orgname": "TIMES SQ-42 ST",
+        "Modname": "Times Sq - 42 St",
+        "lat": "40.754672",
+        "lng": "-73.986754"
+    },
+    {
+        "Orgname": "TOMPKINSVILLE",
+        "Modname": "Tompkinsville",
+        "lat": "40.636949",
+        "lng": "-74.074835"
+    },
+    {
+        "Orgname": "TREMONT AV",
+        "Modname": "Tremont Av",
+        "lat": "40.85041",
+        "lng": "-73.905227"
+    },
+    {
+        "Orgname": "TWENTY THIRD ST",
+        "Modname": "Winthrop St",
+        "lat": "40.656652",
+        "lng": "-73.9502"
+    },
+    {
+        "Orgname": "UNION ST",
+        "Modname": "Union St",
+        "lat": "40.677316",
+        "lng": "-73.98311"
+    },
+    {
+        "Orgname": "UTICA AV",
+        "Modname": "Utica Av",
+        "lat": "40.679364",
+        "lng": "-73.930729"
+    },
+    {
+        "Orgname": "V.CORTLANDT PK",
+        "Modname": "Cortlandt St",
+        "lat": "40.710668",
+        "lng": "-74.011029"
+    },
+    {
+        "Orgname": "VAN SICLEN AV",
+        "Modname": "Van Siclen Av",
+        "lat": "40.678024",
+        "lng": "-73.891688"
+    },
+    {
+        "Orgname": "VAN SICLEN AVE",
+        "Modname": "Van Siclen Av",
+        "lat": "40.678024",
+        "lng": "-73.891688"
+    },
+    {
+        "Orgname": "VERNON-JACKSON",
+        "Modname": "Vernon Blvd - Jackson Av",
+        "lat": "40.742626",
+        "lng": "-73.953581"
+    },
+    {
+        "Orgname": "W 4 ST-WASH SQ",
+        "Modname": "Wall St",
+        "lat": "40.707557",
+        "lng": "-74.011862"
+    },
+    {
+        "Orgname": "W 8 ST-AQUARIUM",
+        "Modname": "W 8 St - NY Aquarium",
+        "lat": "40.576127",
+        "lng": "-73.975939"
+    },
+    {
+        "Orgname": "WAKEFIELD/241",
+        "Modname": "Wakefield - 241 St",
+        "lat": "40.903125",
+        "lng": "-73.85062"
+    },
+    {
+        "Orgname": "WALL ST",
+        "Modname": "Wall St",
+        "lat": "40.707557",
+        "lng": "-74.011862"
+    },
+    {
+        "Orgname": "WEST FARMS SQ",
+        "Modname": "West Farms Sq - E Tremont Av",
+        "lat": "40.840295",
+        "lng": "-73.880049"
+    },
+    {
+        "Orgname": "WESTCHESTER SQ",
+        "Modname": "Westchester Sq - E Tremont Av",
+        "lat": "40.839892",
+        "lng": "-73.842952"
+    },
+    {
+        "Orgname": "WHITEHALL S-FRY",
+        "Modname": "Whitehall St",
+        "lat": "40.703087",
+        "lng": "-74.012994"
+    },
+    {
+        "Orgname": "WHITLOCK AV",
+        "Modname": "Whitlock Av",
+        "lat": "40.826525",
+        "lng": "-73.886283"
+    },
+    {
+        "Orgname": "WINTHROP ST",
+        "Modname": "Winthrop St",
+        "lat": "40.656652",
+        "lng": "-73.9502"
+    },
+    {
+        "Orgname": "WOODHAVEN BLVD",
+        "Modname": "Woodhaven Blvd",
+        "lat": "40.693879",
+        "lng": "-73.851576"
+    },
+    {
+        "Orgname": "WOODLAWN",
+        "Modname": "Woodlawn",
+        "lat": "40.886037",
+        "lng": "-73.878751"
+    },
+    {
+        "Orgname": "WORLD TRADE CTR",
+        "Modname": "World Trade Center",
+        "lat": "40.712582",
+        "lng": "-74.009781"
+    },
+    {
+        "Orgname": "YORK ST",
+        "Modname": "York St",
+        "lat": "40.701397",
+        "lng": "-73.986751"
+    },
+    {
+        "Orgname": "ZEREGA AV",
+        "Modname": "Zerega Av",
+        "lat": "40.836488",
+        "lng": "-73.847036"
+    }
+]

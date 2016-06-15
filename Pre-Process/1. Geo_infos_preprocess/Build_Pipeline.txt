@@ -1,0 +1,8 @@
+RawData -> text (process by R)
+
+text -> modified (process_station_used.c)
+
+stops.text + modified -> geo.json (main.js)
+# require: fs, string-similarity
+
+geo.json + dataGenerated.json -> draw Circles (index.js)

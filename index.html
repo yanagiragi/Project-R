@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Project R</title>
+	<meta charset='utf-8'>
+    <style type="text/css">
+      html, body, #map-canvas { height: 100%; margin: 0; padding: 0;}
+    </style>
+	<link rel=stylesheet type="text/css" href="Assets/css/index.css">
+
+
+  </head>
+  <body>
+	<div id="map-canvas">
+	</div>
+
+		<div class="siderbarmap">
+			<ul>
+				<input id="Circlebox" type="checkbox" checked="checked" />Circle
+				<br />
+				<input id="Iconbox" type="checkbox"  />Icon
+				<br />
+				<input id="filterBox" type="checkbox"  />Size Filter
+			</ul>
+		</div>
+
+	<div id="btnArea">
+		<button id="entries" class="btn">Entries</button>
+		<button id="exits" class="btn">Exits</button>
+		<button id="total" class="btn">Total</button>
+	</div>
+	<div id="fileArea">
+		<div id="entry">
+
+			<div class="lab">Entries</div>
+			<button class="btn btn-ent" value="am0.json">AM 00:00</button>
+			<button class="btn btn-ent" value="am4.json">AM 04:00</button>
+			<button class="btn btn-ent" value="am8.json">AM 08:00</button>
+			<button class="btn btn-ent" value="pm12.json">PM 12:00</button>
+			<button class="btn btn-ent" value="pm16.json">PM 16:00</button>
+			<button class="btn btn-ent" value="pm20.json">PM 20:00</button>
+		</div>
+		<div id="entry">
+			<div class="lab">Exits</div>
+			<button class="btn btn-ext" value="am0.json">AM 00:00</button>
+			<button class="btn btn-ext" value="am4.json">AM 04:00</button>
+			<button class="btn btn-ext" value="am8.json">AM 08:00</button>
+			<button class="btn btn-ext" value="pm12.json">PM 12:00</button>
+			<button class="btn btn-ext" value="pm16.json">PM 16:00</button>
+			<button class="btn btn-ext" value="pm20.json">PM 20:00</button>
+		</div>
+	</div>
+
+
+
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDe71pYauGtPXrk1h3FmfzR5J4Yst5BfEw"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-rc1/jquery.min.js"></script>
+	<script type="text/javascript" src="Assets/js/index.js"></script>
+  </body>
+</html>

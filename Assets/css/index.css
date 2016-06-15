@@ -1,0 +1,101 @@
+.btn {
+	opacity : 0.8;
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  background: #3584b8;
+  padding: 8px 16px 8px 16px;
+  text-decoration: none;
+  width:100px;
+}
+
+.btn:hover {
+  background: #449acf;
+  text-decoration: none;
+}
+
+#btnArea{
+	position: fixed;
+	z-index: 99999;
+	margin-top: -5%;
+	margin-left: 3%;
+}
+
+@media screen and (min-width: 400px) and (max-width: 1024px){
+	#fileArea{
+		position: relative;
+		margin-top: -75%;
+		width: 20px;
+		margin-left: 83%;
+	}
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1280px){
+	#fileArea{
+	position: relative;
+	margin-top: -46%;
+	width: 20px;
+    margin-left: 86%;
+	}
+}
+
+@media screen and (min-width: 1281px) and (max-width: 1366px){
+	#fileArea{
+	position: relative;
+	margin-top: -55%;
+	width: 20px;
+    margin-left: 86%;
+	}
+}
+
+@media screen and (min-width: 1367px) and (max-width: 1920px){
+	#fileArea{
+		position: relative;
+		margin-top: -45%;
+		width: 20px;
+		margin-left: 92%;
+	}
+}
+#fileArea2{
+	position: relative;
+	margin-top: -55%;
+	width: 20px;
+	margin-left: 77%;
+}
+#entry{
+	padding-bottom: 25px;
+	background-color: RGBA(253, 255, 255, 0.36);
+	width: 112px;
+	padding-left: 10px;
+	margin-bottom: 20px;
+}
+.lab{
+	width: 100px;
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.siderbarmap{
+	background-color: RGBA(253, 255, 255, 0.36);
+    margin-top: -55%;
+    margin-left: 84.5%;
+    position: fixed;
+    width: 169px;
+}
+.siderbarmap2{
+	background-color: RGBA(253, 255, 255, 0.36);
+    margin-top: -55%;
+    margin-left: 86.5%;
+    position: fixed;
+    width: 169px;
+}
+
+#fileArea3{
+margin-top: -25%;
+width: 20px;
+margin-left: 86%;
+position: relative;
+}
